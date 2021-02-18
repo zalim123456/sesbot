@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "BOT DURUMU",
+        "GUILD_ID": "SUNUCU ID",
+        "VOICE_CHANNEL": "GİRİLECEK KANAL ID",
+        "MIN_STAFF_ROLE": "REGİSTER YETKİLİSİ ID"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": "TOKEN"
+}
